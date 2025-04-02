@@ -8,7 +8,9 @@ export default {
         <main v-if="loading">
             <Spinner></Spinner>
         </main>
-        
+            <body>
+                <p>hi</p>
+            </body>
         </main>
     `,
 };
