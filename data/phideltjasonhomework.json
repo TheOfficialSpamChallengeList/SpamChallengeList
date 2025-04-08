@@ -10,5 +10,11 @@
     "device": "All",
     "fps": "60",
     "records": [
+        {
+          "user": "aelzfr",
+          "hz": "60",
+          "link": "https://www.youtube.com/watch?v=MJzpYCYTdw8&ab_channel=aelzfr",
+          "percent": 100
+        }
     ]
 }
