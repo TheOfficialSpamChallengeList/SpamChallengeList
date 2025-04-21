@@ -25,7 +25,7 @@
         {
             "user": "beefaroni",
             "link": "https://youtu.be/wG-LZm-YXR0?si=JaTa12pYNHtc0zW4",
-            "hz": "CBF",
+            "hz": "60",
             "percent": 100
         },
         {
@@ -37,6 +37,12 @@
         {
             "user": "pixelfactorial",
             "link": "https://youtu.be/qE_ZrEPcxsw",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/s6nTPgjYaGc?si=dQkszEVnFmr_Wbrm&t=37",
             "hz": "CBF",
             "percent": 100
         }
