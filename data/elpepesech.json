@@ -10,5 +10,11 @@
     "device": "G502/G512",
     "fps": "CBF",
     "records": [
+        {
+            "user": "PaperGuy",
+            "hz": "CBF",
+            "link": "https://www.youtube.com/watch?v=ljuYuVWzkHU",
+            "percent": 100
+        }
     ]
 }
