@@ -9,5 +9,12 @@
     "handcam": 0,
     "device": "All",
     "fps": 60,
-    "records": []
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/s6nTPgjYaGc?si=58s0W1uwd1W0AYFl&t=18",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
 }
