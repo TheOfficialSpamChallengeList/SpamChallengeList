@@ -9,5 +9,12 @@
     "handcam": 0,
     "device": "Uncapped",
     "fps": "240/360",
-    "records": []
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/hEmxPAA-k58?si=F1kAFt4hKsWaAumM&t=127",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
 }
