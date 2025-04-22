@@ -10,5 +10,11 @@
     "device": "Any",
     "fps": "CBF",
     "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/A9zb01vGHmo?si=rqIm4O_IXmJCKAHc&t=48",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
