@@ -9,5 +9,18 @@
     "handcam": 0,
     "fps": "CBF",
     "device": "Uncapped",
-    "records": []
+    "records": [
+        {
+            "user": "IsntAdam",
+            "link": "https://www.youtube.com/watch?v=TwAddr_cJ0I",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/A9zb01vGHmo?si=1P-8v1e_LO5SYMzo",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
 }
