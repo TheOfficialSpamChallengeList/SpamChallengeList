@@ -9,5 +9,12 @@
     "handcam": 2,
     "fps": "CBF",
     "device": "All",
-    "records": []
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/sYlM-U2RWxw?si=K3SrxtMAsXAqlp5D&t=2059",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
 }
