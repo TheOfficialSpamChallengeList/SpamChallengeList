@@ -1,0 +1,26 @@
+{
+    "id": 75420033,
+    "name": "Garbage Spam",
+    "author": "MM9000",
+    "creators": [],
+    "verifier": "MM9000",
+    "verification": "https://www.youtube.com/watch?v=9JGNI9IIjAY",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "G502/G512",
+    "fps": "CBF",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "hz": "CBF",
+            "link": "https://youtu.be/Wr7j5BuIEno",
+            "percent": 100
+        },
+        {
+            "user": "galbeni7",
+            "hz": "CBF",
+            "link": "https://www.youtube.com/watch?v=GDac93tgArs",
+            "percent": 100
+        }
+    ]
+}
