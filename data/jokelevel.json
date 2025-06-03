@@ -10,5 +10,11 @@
     "device": "All",
     "fps": 60,
     "records": [
+        {
+          "user": "Astroguy",
+          "hz": 60,
+          "link": "https://www.youtube.com/watch?v=rNaui-WApgg",
+          "percent": 100
+        }
     ]
 }
