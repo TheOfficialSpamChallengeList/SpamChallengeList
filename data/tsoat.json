@@ -1,5 +1,5 @@
 {
-    "id": 85552176
+    "id": 85552176,
     "name": "The spam of all time",
     "author": "MM9000",
     "creators": [],
@@ -9,6 +9,5 @@
     "handcam": 1,
     "device": "All",
     "fps": "60",
-    "records": [
-    ]
+    "records": []
 }
