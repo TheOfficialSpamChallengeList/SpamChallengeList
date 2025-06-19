@@ -1,3 +1,4 @@
+
 {
     "id": 116316588,
     "name": "CHAOS",
@@ -9,5 +10,12 @@
     "handcam": 1,
     "device": "All",
     "fps": "60",
-    "records": []
+    "records": [
+        {
+        "user": "loooookkk",
+        "link": "https://www.youtube.com/watch?v=9n0qgPbjXjc",
+        "hz": 60,
+        "percent": 100
+        }
+]
 }
