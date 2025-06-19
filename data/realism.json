@@ -9,5 +9,12 @@
     "handcam": 1,
     "device": "All",
     "fps": "60",
-    "records": []
+    "records": [
+         {
+        "user": "loooookkk",
+        "link": "https://www.youtube.com/watch?v=WrF6qNgqwP4",
+        "hz": 60,
+        "percent": 100
+        }
+]
 }
