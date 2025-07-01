@@ -39,6 +39,12 @@
         "link": "https://youtu.be/x05g9Ia9uz4",
         "hz": "60",
         "percent": 100
-        } 
+        },
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/watch?v=4WhkcqN40Zw",
+            "hz": 60,
+            "percent": 100
+        }
     ]
 }
