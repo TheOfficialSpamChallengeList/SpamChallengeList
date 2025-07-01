@@ -25,8 +25,8 @@
         {
             "user": "Astroguy",
             "link": "https://youtu.be/vfZfXDVv1tw?si=SVNebh39Atdcpu7z&t=8",
-            "hz": 80,
-            "percent": 100,
+            "hz": "80",
+            "percent": 100
         }
     ]
 }
