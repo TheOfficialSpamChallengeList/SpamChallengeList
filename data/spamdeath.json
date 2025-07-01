@@ -9,5 +9,12 @@
     "handcam": 2,
     "device": "All",
     "fps": "60",
-    "records": []
+    "records": [
+        {
+            "user": "Haruna",
+            "link": "https://youtu.be/KjFk9xkLzSI",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
 }
