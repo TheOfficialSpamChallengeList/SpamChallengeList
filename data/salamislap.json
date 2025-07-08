@@ -31,8 +31,8 @@
         {
             "user": "Fishal",
             "hz": 60,
-            "percent": 100
-
+            "percent": 100,
+            "mobile": true
         },
         {
         "user": "pixelfactorial",
@@ -59,8 +59,8 @@
         {
             "user": "Popoff",
             "hz": 60,
-            "percent": 100
-        
+            "percent": 100,
+            "mobile": true
         },
         {
             "user": "Pastelliano",
