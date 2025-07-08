@@ -22,12 +22,14 @@
             "link": "https://youtu.be/jW61Hzd_Ubo?si=aRkr6pOzKE8PiPBL",
             "percent": 100,
             "hz": 60,
+            "mobile": true
         },
               {
             "user": "Ray131",
             "link": "https://youtu.be/VFlIXQntdyc?si=7k-C8VkU54qN4kaQ",
             "percent": 100,
             "hz": 60,
+            "mobile": true
         },
               {
             "user": "NXISE",
@@ -40,6 +42,7 @@
             "link": "https://youtu.be/KU0yvlQEu-o?si=uPcZd09-pJnbuUv3",
             "percent": 100,
             "hz": 60,
+            "mobile": true
         },
               {
             "user": "WhizKid05",
