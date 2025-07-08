@@ -72,6 +72,9 @@ export default {
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
+                             <td class="nuc">
+                                <img v-if="record.nuc" :src="\`/assets/mf.svg\`" alt="mf">
+                            </td>
                             <td class="hz">
                                 <p>{{ record.hz }}</p>
                             </td>
