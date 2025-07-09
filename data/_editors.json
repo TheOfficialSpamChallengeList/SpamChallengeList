@@ -9,10 +9,10 @@
         "name": "PaperGuy",
         "link": "https://youtube.com/@paperguy_"
     },
-        {
-        "role": "admin",
-        "name": "galbeni7",
-        "link": "https://www.youtube.com/@galbeni7gd"
+    {
+    "role": "owner",
+    "name": "galbeni7",
+    "link": "https://www.youtube.com/@galbeni7gd"
     },
     {
         "role": "admin",
@@ -21,18 +21,23 @@
     },
         {
         "role": "helper",
-        "name": "pastelliano",
+        "name": "Pastelliano",
         "link": "https://www.youtube.com/@pastelliano"
     },
         {
         "role": "helper",
-        "name": "frozixgd",
+        "name": "Frozix",
         "link": "https://youtube.com/@frozixgd?si=0JxxI4hdwC7-6ptN"
     },
             {
         "role": "helper",
         "name": "ywuChaos",
         "link": "https://www.youtube.com/@yowutupchaos"
+    },
+            {
+        "role": "helper",
+        "name": "IsntAdam",
+        "link": "https://www.youtube.com/@isnt_adam804"
     },
         {
         "role": "dev",
