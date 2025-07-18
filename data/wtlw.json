@@ -52,7 +52,13 @@
         {
             "user": "Astroguy",
             "link": "https://www.youtube.com/watch?v=D6guOQyp9Pg",
-            "hz": 60,
+            "hz": 59,
+            "percent": 100
+        },
+        {
+            "user": "Thepaekboy",
+            "link": "https://www.youtube.com/watch?v=Ik_L_8_9GB0",
+            "hz": 59,
             "percent": 100
         }
     ]
