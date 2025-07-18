@@ -35,9 +35,15 @@
         "percent": 100
         },
         {
-            "user": "Paperguy",
+            "user": "PaperGuy",
             "link": "https://www.youtube.com/watch?v=Lv4CDPwZ4nU",
             "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://www.youtube.com/watch?v=lJtnSOz5KEw",
+            "hz": 60,
             "percent": 100
         }
     ]
