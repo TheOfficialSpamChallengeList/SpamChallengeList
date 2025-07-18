@@ -32,6 +32,12 @@
         "user": "AstroGuy",
         "hz": 60,
         "percent": 100
+        },
+        {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=80Adgm0Oe-Y",
+        "hz": 60,
+        "percent": 100
         }
     ]
 }
