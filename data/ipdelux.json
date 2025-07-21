@@ -100,6 +100,12 @@
         "link": "https://www.youtube.com/shorts/rsxWeZSvI9s?si=kq0gkhnzc3UOXA6w",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "Valley",
+            "link": "https://www.youtube.com/watch?v=RYK1hEb3FwQ",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
