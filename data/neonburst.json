@@ -10,5 +10,11 @@
     "device": "G502/G512",
     "fps": "CBF",
     "records": [
+        {
+            "user": "bbb4yt",
+            "link": "https://discord.com/channels/1268386437116465205/1359297292217094244/1396648344260182137",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
