@@ -80,6 +80,18 @@
             "link": "https://youtu.be/IV0IacuY3_s?si=B3RTnoTmLLAORhsD&t=35",
             "hz": 60,
             "percent": 100
+        },
+        {
+        "user": "IsntAdam",
+        "link": "https://www.youtube.com/watch?v=Wuw1bBgfGBs",
+        "hz": "60",
+        "percent": 100
+        },
+        {
+        "user": "REQUIEMHUNGERS",
+        "link": "https://www.youtube.com/shorts/goq2_6MCw6A",
+        "hz": "60",
+        "percent": 100
         }
     ]
 }
