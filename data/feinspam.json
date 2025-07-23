@@ -11,6 +11,12 @@
     "fps": "60",
     "records": [
         {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=nB8zePcEy5Y",
+            "hz": 60,
+            "percent": 100
+        },
+        {
             "user": "galbeni7",
             "link": "https://www.youtube.com/watch?v=DwEo9wmegeo",
             "hz": 60,
