@@ -39,6 +39,12 @@
         "link": "https://www.youtube.com/watch?v=FPwO-IqDu1Q",
         "hz": "CBF",
         "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/sYlM-U2RWxw?si=P-Ztx11t3CVEUaeB&t=288",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
