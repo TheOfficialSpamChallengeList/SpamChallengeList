@@ -8,13 +8,7 @@
     "percentToQualify": "100",
     "handcam": 1,
     "fps": "60",
-    "device": "All",
+    "device": "Uncapped",
     "records": [
-        {
-        "user": "loooookkk",
-        "link": "https://youtu.be/XjdbWTawIdg",
-        "hz": 60,
-        "percent": 100
-        }
 ]
 }

@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/7EPPNyzOvtc",
     "percentToQualify": "100",
     "handcam": 0,
-    "device": "All",
+    "device": "Uncapped",
     "fps": 60,
     "records": [
         {
@@ -16,21 +16,9 @@
           "percent": 100
         },
         {
-          "user": "galbeni7",
-          "hz": 60,
-          "link": "https://youtube.com/shorts/ypwRdRTJIYE",
-          "percent": 100
-        },
-        {
           "user": "Astroguy",
           "hz": 60,
           "link": "https://www.youtube.com/watch?v=tfgkqxqqjVQ",
-          "percent": 100
-        },
-        {
-          "user": "loooookkk",
-          "hz": 60,
-          "link": "https://streamable.com/qqj7lb",
           "percent": 100
         }
     ]

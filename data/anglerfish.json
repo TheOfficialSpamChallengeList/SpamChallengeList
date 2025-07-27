@@ -7,15 +7,9 @@
     "verification": "https://youtu.be/ZZUP_bfgSC4",
     "percentToQualify": "100",
     "handcam": 0,
-    "device": "All",
+    "device": "Uncapped",
     "fps": "60",
     "records": [
-        {
-          "user": "galbeni7",
-          "hz": 60,
-          "link": "https://youtube.com/shorts/_HAcOgwbQuU",
-          "percent": 100
-        },
         {
           "user": "PaperGuy",
           "hz": 60,
@@ -33,12 +27,6 @@
             "link": "https://youtu.be/atKEJHGYPes?si=lRDcaMy5jLNiLR0L&t=12",
             "hz": 60,
             "percent": 100
-        },
-        {
-        "user": "loooookkk",
-        "link": "https://www.youtube.com/watch?v=FPwO-IqDu1Q",
-        "hz": 60,
-        "percent": 100
         }
 ]
 }

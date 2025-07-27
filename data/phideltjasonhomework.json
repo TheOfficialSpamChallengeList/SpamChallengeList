@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/f0wRLzNEkjg?si=vUylZdHz_hS9PGdH",
     "percentToQualify": "100",
     "handcam": 0,
-    "device": "All",
+    "device": "Uncapped",
     "fps": "60",
     "records": [
         {
@@ -15,12 +15,6 @@
           "hz": "60",
           "link": "https://www.youtube.com/watch?v=MJzpYCYTdw8&ab_channel=aelzfr",
           "percent": 100
-        },
-        {
-        "user": "loooookkk",
-        "link": "https://youtu.be/XjdbWTawIdg",
-        "hz": "60",
-        "percent": 100
         }
     ]
 }

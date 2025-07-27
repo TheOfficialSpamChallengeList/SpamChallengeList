@@ -11,27 +11,15 @@
     "fps": 80,
     "records": [
         {
-        "user": "galbeni7",
-        "link": "https://www.youtube.com/watch?v=r9dZdzQvMjQ",
-        "hz": 80,
-        "percent": 100
-        },
-        {
         "user": "PaperGuy",
         "link": "https://youtu.be/eMC0N9uiV98?t=6",
         "hz": 80,
         "percent": 100
         },
         {
-        "user": "loooookkk",
-        "link": "https://youtu.be/FR2SbfRIDlk?si=fTyUg7rwLd429CRN&t=129",
-            "hz": 80,
-            "percent": 100
-        },
-        {
             "user": "ywuChaos",
             "link": "https://youtu.be/7f1EmwQnVhY?si=FNDMnO5H7iFrs9_o&t=36",
-            "hz": "at least 40",
+            "hz": 80,
             "percent": 100
         }
     ]

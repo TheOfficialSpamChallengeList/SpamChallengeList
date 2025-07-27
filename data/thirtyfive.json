@@ -7,14 +7,8 @@
     "verification": "https://youtu.be/YJqYHmgoRFU?si=p0fIWLQ9PEZTiHw-&t=15",
     "percentToQualify": "100",
     "handcam": 0,
-    "device": "All",
+    "device": "Uncapped",
     "fps": "60",
     "records": [
-        {
-        "user": "loooookkk",
-        "link": "https://youtu.be/XjdbWTawIdg",
-        "hz": "60",
-        "percent": 100
-        }
     ]
 }
