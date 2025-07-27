@@ -9,5 +9,12 @@
     "handcam": 0,
     "device": "Uncapped",
     "fps": "93",
-    "records": []
+    "records": [
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/R72gHQvENKs",
+            "hz": "93",
+            "percent": 100
+        }
+    ]
 }
