@@ -27,6 +27,12 @@
             "link": "https://www.youtube.com/watch?v=3Pz20L3cS70",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://youtu.be/FchOb4wJEmI",
+            "hz": "60",
+            "percent": 100
         }
 ]
 }
