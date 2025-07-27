@@ -10,17 +10,5 @@
     "device": "All",
     "fps": 80,
     "records": [
-        {
-            "user": "galbeni7",
-            "hz": 80,
-            "link": "https://www.youtube.com/watch?v=O3K_1-A8keA",
-            "percent": 100
-        },
-      {
-      "user": "loooookkk",
-      "link": "https://youtu.be/FnYQdJ3AcSM",
-      "hz": "80",
-      "percent": 100
-      }
     ]
 }
