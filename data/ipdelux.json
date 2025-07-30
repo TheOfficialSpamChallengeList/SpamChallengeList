@@ -100,6 +100,12 @@
             "link": "https://www.youtube.com/watch?v=RYK1hEb3FwQ",
             "hz": 240,
             "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=CaKj5SjxXqM",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
