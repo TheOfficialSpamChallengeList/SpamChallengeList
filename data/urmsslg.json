@@ -132,6 +132,12 @@
         "link": "https://www.youtube.com/watch?v=pJuKXhyX_rA",
         "hz": "240",
         "percent": 100
+        },
+        {
+        "user": "CoffeeChips",
+        "link": "https://www.youtube.com/watch?v=TEsziEvj0ik",
+        "hz": 240,
+        "percent": 100
         }
     ]
 }
