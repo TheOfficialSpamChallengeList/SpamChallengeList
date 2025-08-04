@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/5Grd1zpCxM4",
     "percentToQualify": "100",
     "handcam": 0,
-    "device": "All",
+    "device": "Uncapped",
     "fps": 80,
     "records": [
         {
@@ -20,12 +20,6 @@
             "user": "ywuChaos",
             "link": "https://youtu.be/7f1EmwQnVhY?si=FNDMnO5H7iFrs9_o&t=36",
             "hz": 80,
-            "percent": 100
-        },
-        {
-            "user": "blightedcoconut",
-            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1398750870430154752",
-            "hz": "80",
             "percent": 100
         }
     ]
