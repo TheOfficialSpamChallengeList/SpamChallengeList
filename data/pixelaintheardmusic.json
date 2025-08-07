@@ -21,6 +21,12 @@
             "link": "https://www.youtube.com/live/vAQNrjiJ43U?si=kfjzXlPHHlCF1PGD&t=6828",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/72ZgLP-J9XE?si=d9bi2T3xYy0nq_TU&t=24",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
