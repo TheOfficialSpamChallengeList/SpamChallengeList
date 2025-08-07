@@ -9,5 +9,12 @@
     "handcam": 0,
     "device": "Uncapped",
     "fps": 90,
-    "records": []
+    "records": [
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/UgDficTFAe4",
+            "hz": "90",
+            "percent": 100
+        }
+    ]
 }
