@@ -10,5 +10,11 @@
     "device": "All",
     "fps": "CBF",
     "records": [
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/VoFOTbfOELs?si=wWu8Yqw_4mDzVobK&t=70",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
