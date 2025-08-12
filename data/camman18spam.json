@@ -33,6 +33,12 @@
             "link": "https://www.youtube.com/watch?v=xt72zidRBps",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/QmgdVtD3svo?si=vN-P8TA-3h-vNEln&t=22",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
