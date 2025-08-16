@@ -10,5 +10,11 @@
     "device": "All",
     "fps": "CBF",
     "records": [
+        {
+            "user": "Frozix",
+            "link": "https://youtu.be/FmhaKfZsNqY",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
