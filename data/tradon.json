@@ -10,5 +10,11 @@
     "device": "All",
     "fps": "60",
     "records": [
+        {
+         "user": "ywuChaos",
+         "hz": "60",
+         "percent": 100,
+         "link": "https://www.youtube.com/live/E0320UNUmUs?si=X1G_YxTJfYjWZ1WD&t=6676"
+        }
     ]
 }
