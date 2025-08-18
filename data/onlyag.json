@@ -15,6 +15,12 @@
         "link": "https://www.youtube.com/watch?v=nB8zePcEy5Y",
         "hz": 60,
         "percent": 100
-      }
+      },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=YiD9SJIdiaE",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }

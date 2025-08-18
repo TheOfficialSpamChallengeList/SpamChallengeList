@@ -50,6 +50,12 @@
             "link": "https://www.youtube.com/watch?v=lJtnSOz5KEw",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/qDijDODC_co",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
