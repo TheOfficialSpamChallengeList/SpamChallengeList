@@ -10,5 +10,11 @@
     "device": "All",
     "fps": "60",
     "records": [
+      {
+      "user": "JoeBTD",
+      "link": "https://youtu.be/Lh0mBflpZzY?si=Jb3MYscrA5SVhEJE",
+      "hz": 60,
+      "percent": 100
+      }
     ]
 }
