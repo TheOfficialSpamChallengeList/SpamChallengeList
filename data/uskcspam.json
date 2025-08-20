@@ -11,6 +11,11 @@
     "fps": "240/360",
     "records": [
         {
+            "user": "Joinmolten",
+            "hz": 360,
+            "percent": 100
+        },
+        {
          "user": "Frozix",
          "link": "https://youtu.be/gKidE790Zlw?si=IGJJZwJvZv2W-7E3",
          "hz": "360",
