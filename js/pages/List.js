@@ -131,6 +131,9 @@ export default {
                     <p>
                          It may say Spam "Challenge" List, however there is not really a time limit.
                     </p>
+                    <p>
+                         Only fifteen 60fps 15cps straight spam levels can be on the top 100 list at once. This rule only applies for levels done with alternating, so ways such as jitter don't get affected by this.
+                    </p>
                 </div>
             </div>
         </main>
