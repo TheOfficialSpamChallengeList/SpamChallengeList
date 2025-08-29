@@ -1,0 +1,20 @@
+{
+    "id": 125035447,
+    "name": "Chaos Circles Spam",
+    "author": "zLiknod",
+    "creators": [],
+    "verifier": "ad3usgmd",
+    "verification": "https://youtu.be/-EJClo5Tz34",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "CBF",
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/-EJClo5Tz34",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}
