@@ -9,5 +9,12 @@
     "handcam": 0,
     "device": "G502/G512",
     "fps": "CBF",
-    "records": []
+    "records": [
+        {
+      "user": "loooookkk",
+      "link": "https://youtu.be/UW1AVtWMEXw?si=GzkkgyDTpCN3iXkD&t=50",
+      "hz": "CBF",
+      "percent": 100
+      }
+    ]
 }
