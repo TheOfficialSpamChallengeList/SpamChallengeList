@@ -10,5 +10,11 @@
     "device": "G502/G512",
     "fps": "CBF",
     "records": [
+        {
+            "user": "aelzfr",
+            "hz": "CBF",
+            "link": "https://www.youtube.com/watch?v=ejDMV-WizmE&ab_channel=aelzfr²",
+            "percent": 100
+        }
     ]
 }
