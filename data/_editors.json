@@ -10,14 +10,9 @@
         "link": "https://youtube.com/@paperguy_"
     },
     {
-    "role": "owner",
-    "name": "galbeni7",
-    "link": "https://www.youtube.com/@galbeni7gd"
-    },
-    {
-        "role": "admin",
-        "name": "pixelfactorial",
-        "link": "https://www.youtube.com/@pixelfactorial-r6z"
+        "role": "helper",
+        "name": "ywuChaos",
+        "link": "https://www.youtube.com/@yowutupchaos"
     },
         {
         "role": "helper",
@@ -31,11 +26,6 @@
     },
             {
         "role": "helper",
-        "name": "ywuChaos",
-        "link": "https://www.youtube.com/@yowutupchaos"
-    },
-            {
-        "role": "helper",
         "name": "IsntAdam",
         "link": "https://www.youtube.com/@isnt_adam804"
     },
@@ -43,6 +33,11 @@
         "role": "helper",
         "name": "Blighted",
         "link": "https://www.youtube.com/@Blightedcoconut"
+    },
+        {
+        "role": "helper",
+        "name": "dorami 2",
+        "link": "https://www.youtube.com/@doormi2"
     },
         {
         "role": "dev",
