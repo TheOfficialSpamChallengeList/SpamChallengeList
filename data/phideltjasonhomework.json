@@ -15,6 +15,12 @@
           "hz": "60",
           "link": "https://www.youtube.com/watch?v=MJzpYCYTdw8&ab_channel=aelzfr",
           "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/xmA60lFlans",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
