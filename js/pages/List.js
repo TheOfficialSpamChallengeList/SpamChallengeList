@@ -56,8 +56,8 @@ export default {
                         </li>
                     </ul>
                     <h2>Records</h2>
-                    <p v-if="selected + 1 <= 100"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else-if="selected +1 <= 100"><strong>100%</strong> or better to qualify</p>
+                    <p v-if="selected + 1 <= 150"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
+                    <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
                     <p v-else>This level does not accept new records.</p>
                     <p><strong>Handcam is {{['not needed', 'recommended', 'necessary'][level.handcam]}} for this level.</strong></p>
                     <p><strong>Device: {{level.device}}.</strong></p>
