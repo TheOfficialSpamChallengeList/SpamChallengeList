@@ -8,8 +8,14 @@
     "percentToQualify": "100",
     "handcam": 0,
     "device": "All",
-    "fps": "240/360",
+    "fps": "Any",
     "records": [
+        {
+        "user": "Ray131",
+        "link": "https://youtu.be/NQs56YEtIgM?si=MpIxYXS9hyskHMm2&t=24",
+        "hz": 60,
+        "percent": 100
+      },
         {
         "user": "pixelfactorial",
         "link": "https://youtu.be/94MUQ1Eus9Y",
@@ -24,3 +30,4 @@
         }
 ]
 }
+
