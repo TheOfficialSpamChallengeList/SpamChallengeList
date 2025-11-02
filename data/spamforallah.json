@@ -11,6 +11,12 @@
     "fps": "240/360",
     "records": [
         {
+        "user": "Tap33",
+        "link": "https://www.youtube.com/watch?v=Lj7rN_WUoN4",
+        "hz": 60,
+        "percent": 100
+      },
+        {
         "user": "PaperGuy",
         "link": "https://www.youtube.com/watch?v=bVTGRI4TCK8",
         "hz": 240,
