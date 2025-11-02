@@ -11,6 +11,12 @@
     "fps": "60",
     "records": [
         {
+        "user": "Ray131",
+        "link": "https://youtu.be/NQs56YEtIgM?si=MpIxYXS9hyskHMm2&t=24",
+        "hz": 60,
+        "percent": 100
+      },
+        {
             "user": "PaperGuy",
             "link": "https://youtu.be/D5p_bteU3G0?t=34",
             "hz": 60,
