@@ -11,6 +11,12 @@
     "fps": "240/360",
     "records": [
         {
+         "user": "galbeni7",
+         "link": "https://www.youtube.com/live/w4SGS4R4VKQ?si=Hhjqd5NIFubOyidQ&t=1740",
+         "hz": "CBF",
+         "percent": 100
+        },
+        {
             "user": "pixelfactorial",
             "hz": "CBF",
             "link": "https://www.youtube.com/watch?v=Ifyk_yGKTHI",
