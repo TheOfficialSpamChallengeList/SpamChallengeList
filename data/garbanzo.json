@@ -9,5 +9,12 @@
     "handcam": 0,
     "device": "Uncapped",
     "fps": "CBF",
-    "records": []
+    "records": [
+        {
+            "user": "PaperGuy",
+      "link": "https://youtu.be/5gBToK4sOFE",
+      "hz": "CBF",
+      "percent": 100
+        }
+    ]
 }
