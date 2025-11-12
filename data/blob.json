@@ -1,20 +1,14 @@
 {
-    "id": 69227013,
+    "id": 116047927,
     "name": "blob",
     "author": "BlightedCoconut",
-    "creators": ["aelzfr", "BlightedCoconut"],
+    "creators": [],
     "verifier": "ywuChaos",
-    "verification": "https://www.youtube.com/watch?v=eOPlJ3LArys&t",
+    "verification": "https://youtu.be/QZzWH8X-D8k",
     "percentToQualify": "100",
     "handcam": 1,
     "device": "All",
     "fps": "60",
     "records": [
-        {
-            "user": "PaperGuy",
-            "link": "https://www.youtube.com/watch?v=41at57mCsDc",
-            "hz": "60",
-            "percent": 100
-        }
     ]
 }
