@@ -1,0 +1,19 @@
+{
+    "id": 127752958,
+    "name": "Liknod Tutorial",
+    "author": "zFrozix",
+    "creators": [],
+    "verifier": "Frozix",
+    "verification": "https://youtu.be/fHsFRbkgsUM",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "CBF",
+    "records": [
+      {
+        "user": "ywuChaos",
+        "hz": "CBF",
+        "percent": 100
+      }
+    ]
+}
