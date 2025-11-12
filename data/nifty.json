@@ -1,0 +1,19 @@
+{
+    "id": 125191467,
+    "name": "Nifty Challenge",
+    "author": "ILoveLilies",
+    "creators": [],
+    "verifier": "Lily",
+    "verification": "https://www.youtube.com/watch?v=O29v7tl8bj0",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "CBF",
+    "records": [
+      {
+        "user": "ywuChaos",
+        "hz": "CBF",
+        "percent": 100
+      }
+    ]
+}
