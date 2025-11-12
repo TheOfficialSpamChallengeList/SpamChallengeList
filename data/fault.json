@@ -1,0 +1,19 @@
+{
+    "id": 127623326,
+    "name": "Its Your Fault",
+    "author": "Kinetic16",
+    "creators": [],
+    "verifier": "Kinetic16",
+    "verification": "https://www.youtube.com/watch?v=rSL3mj661Fs",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "60",
+    "records": [
+        {
+         "user": "ywuChaos",
+         "hz": "CBF",
+         "percent": 100,
+        }
+    ]
+}
