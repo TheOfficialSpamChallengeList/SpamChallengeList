@@ -1,0 +1,19 @@
+{
+    "id": 127764518,
+    "name": "Spam like Frozi",
+    "author": "liknod",
+    "creators": [],
+    "verifier": "Frozix",
+    "verification": "https://youtu.be/2HZG9_re8Oo?si=-nwZraDXZYVnWYWQ&t=154",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "CBF",
+    "records": [
+      {
+        "user": "ywuChaos",
+        "hz": "CBF",
+        "percent": 100
+      }
+    ]
+}
