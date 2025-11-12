@@ -1,0 +1,19 @@
+{
+    "id": 68747655,
+    "name": "Risk Money",
+    "author": "TTSum",
+    "creators": [],
+    "verifier": "Ray131",
+    "verification": "https://youtu.be/jtDPrQUkRdc?si=IYuxiUcvUozkEwUi&t=14",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "60",
+    "records": [
+        {
+         "user": "ywuChaos",
+         "hz": "CBF",
+         "percent": 100,
+        }
+    ]
+}
