@@ -1,0 +1,24 @@
+{
+    "id": 76039580,
+    "name": "Old Field Ext Ext",
+    "author": "Tap33",
+    "creators": ["Astrolofy", "Tap33"],
+    "verifier": "Tap33",
+    "verification": "https://www.youtube.com/watch?v=stykPvGS6zk",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "60",
+    "records": [
+      {
+         "user": "Ray131",
+         "hz": "60",
+         "percent": 100
+        },
+        {
+         "user": "ywuChaos",
+         "hz": "60",
+         "percent": 100
+        }
+    ]
+}
