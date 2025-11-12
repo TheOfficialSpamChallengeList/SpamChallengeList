@@ -1,0 +1,25 @@
+{
+    "id": 76147734,
+    "name": "Ray131 Challenge",
+    "author": "Tap33",
+    "creators": [],
+    "verifier": "Tap33",
+    "verification": "https://youtu.be/ii54DE8fLpo?si=RkC4VqcVd-9CwKkO",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "60",
+    "records": [
+      {
+         "user": "Ray131",
+         "hz": "60",
+        "link": "https://youtu.be/ii54DE8fLpo?si=RkC4VqcVd-9CwKkO",
+         "percent": 100
+        },
+        {
+         "user": "ywuChaos",
+         "hz": "60",
+         "percent": 100
+        }
+    ]
+}
