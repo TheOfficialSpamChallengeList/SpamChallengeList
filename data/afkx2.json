@@ -1,0 +1,19 @@
+{
+    "id": 75880099,
+    "name": "AfK x2",
+    "author": "Ray131",
+    "creators": [],
+    "verifier": "Ray131",
+    "verification": "https://youtu.be/MEErtWpSpR0?si=na638YIna3bvTUea",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "60",
+    "records": [
+        {
+         "user": "ywuChaos",
+         "hz": "CBF",
+         "percent": 100,
+        }
+    ]
+}
