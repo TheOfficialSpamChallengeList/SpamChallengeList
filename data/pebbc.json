@@ -1,0 +1,19 @@
+{
+    "id": 80792111,
+    "name": "pebbc 60fps",
+    "author": "TTSum",
+    "creators": [],
+    "verifier": "Ray131",
+    "verification": "https://youtu.be/EBvUaR2g2Z0?si=yE0PBjMpCDc3DP4t&t=42",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "60",
+    "records": [
+        {
+         "user": "ywuChaos",
+         "hz": "CBF",
+         "percent": 100,
+        }
+    ]
+}
