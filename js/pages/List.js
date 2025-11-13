@@ -108,7 +108,7 @@ export default {
                         The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning.
                     </p>
                     <p>
-                        You are not allowed to use methods of spamming that require little effort for very high amounts of cps, such as drag clicking, bolt clicking.
+                        You are allowed to use any methods of spamming, but certain methods are disallowed for specific levels.
                     </p>
                     <p>
                         The lowest respawn time is 0.5 seconds.
