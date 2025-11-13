@@ -10,5 +10,10 @@
     "device": "Shower",
     "fps": "Any",
     "records": [
+        {
+        "user": "ywuChaos",
+        "fps": "Dry Shower",
+            "percent": 100
+        }
     ]
 }
