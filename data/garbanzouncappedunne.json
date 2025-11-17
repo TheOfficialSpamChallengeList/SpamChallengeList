@@ -10,5 +10,11 @@
     "device": "All",
     "fps": "CBF",
     "records": [
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/WE6fgOHwEms",
+            "hz:" "CBF",
+            "percent": 100
+        }
     ]
 }
