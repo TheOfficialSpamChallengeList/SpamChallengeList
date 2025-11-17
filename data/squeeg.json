@@ -10,11 +10,5 @@
     "device": "Two keys, three fingers, no rapid trigger",
     "fps": "60",
     "records": [
-        {
-        "user": "AstroGuy",
-        "link": "https://youtu.be/cK7OQY57n08",
-        "hz": "60",
-        "percent": 100
-        }
     ]
 }
