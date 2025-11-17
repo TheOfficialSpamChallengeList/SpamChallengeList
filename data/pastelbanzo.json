@@ -3,18 +3,12 @@
     "name": "Furbanzo",
     "author": "MeowPau",
     "creators": [],
-    "verifier": "MeowPau",
-    "verification": "https://www.youtube.com/watch?v=UM_BkWfge-4",
+    "verifier": "PaperGuy",
+    "verification": "https://www.youtube.com/watch?v=5gBToK4sOFE",
     "percentToQualify": "100",
     "handcam": 0,
-    "device": "G502/G512",
+    "device": "Uncapped",
     "fps": "CBF",
     "records": [
-        {
-      "user": "loooookkk",
-      "link": "https://youtu.be/UW1AVtWMEXw?si=GzkkgyDTpCN3iXkD&t=50",
-      "hz": "CBF",
-      "percent": 100
-      }
     ]
 }
