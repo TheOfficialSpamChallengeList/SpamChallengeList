@@ -11,6 +11,11 @@
     "fps": 60,
     "records": [
         {
+        "user": "galbeni7",
+        "hz": 60,
+        "percent": 100
+        },
+        {
         "user": "aelzfr",
         "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1336122482893258823",
         "hz": 60,

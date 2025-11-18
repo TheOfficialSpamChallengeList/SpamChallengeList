@@ -41,11 +41,16 @@
             "percent": 100
         },
         {
+          "user": "galbeni7",
+          "hz": 60,
+          "percent": 100
+        },
+        {
           "user": "Xnor",
           "hz": 60,
           "link": "https://youtu.be/kND_-35ltTU",
           "percent": 100
-        },
+        }
         {
             "user": "ywuChaos",
             "link": "https://youtu.be/sNclUv-fJ4g",
