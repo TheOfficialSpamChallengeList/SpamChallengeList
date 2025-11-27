@@ -11,9 +11,15 @@
     "fps": "Any",
     "records": [
         {
+            "user": "AngoPR",
+            "link": "https://youtu.be/iG4Nk3c5T3s",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
             "user": "MM9000",
             "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1442974929875107960",
-            "hz": 60,
+            "hz": "CBF",
             "percent": 100
         }
     ]
