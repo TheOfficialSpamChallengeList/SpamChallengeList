@@ -10,5 +10,11 @@
     "device": "Two keys, three fingers, no rapid trigger",
     "fps": "Any",
     "records": [
+        {
+            "user": "MM9000",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1442974929875107960",
+            "hz": 60,
+            "percent": 100
+        }
     ]
 }
