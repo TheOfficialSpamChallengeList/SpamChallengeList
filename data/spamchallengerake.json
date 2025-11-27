@@ -10,5 +10,16 @@
     "device": "Two keys, three fingers, no rapid trigger",
     "fps": "70",
     "records": [
+        {
+            "user": "ywuChaos",
+            "hz": 70,
+            "percent": 100
+        },
+        {
+            "user": "AngoPR",
+            "link": "https://youtu.be/iJr4osBFrwM",
+            "hz": 70,
+            "percent": 100
+        }
     ]
 }
