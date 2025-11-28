@@ -123,7 +123,7 @@ export default {
                         Uncapped devices have a debounce delay of 10ms or less. To find the debounce delay for your device visit <a style="color: #03bafc" href="https://clickspeedtester.com/keyboard-latency-test/">this site</a> and try to get the shortest keypress possible.
                     </p>
                     <p>
-                        Physics bypass can only be used for framerates 240 and under. Levels verified in 2.1 can be beaten in their respective fps (59-360). CBF is its own framerate.
+                        Physics bypass can only be used for framerates 240 and under (0-240). Levels verified in 2.1 can be beaten in their respective fps (59-360). CBF is its own framerate.
                     </p>
                     <p>
                         Rebinding keys IS allowed as long as you use only 2 or less keys!
