@@ -117,13 +117,13 @@ export default {
                         A maximum of 2 inputs are allowed when spamming.
                     </p>
                     <p>
-                        All hardware is able to be used, though it is level specific. For example, you can use logitech g512 to beat pepino. Though for a level like Why The Spam, you have to use a near capless device (15ms debounce or less). A list of hardware and its appropriate debounce time will most likely develop over time. Levels beaten with capped devices will be placed according to how hard it was on the capped device. If a level is beaten with a device with a lower debounce delay, the level will be verified with that device as long as the difference is greater than a 5ms debounce delay. This also means the device with a higher debounce delay will not be allowed in completions anymore. An example would be beating garbanzo on k55 then later it gets beaten on sayo device, garbanzo will be ranked according to how hard it is on sayo device and will no longer be allowed to be beaten on k55.
+                        Hardware is specific to each level, assume that a level is uncapped. 
                     </p>
                     <p>
-                        All devices that are considered capped are the K55, K65 mini, k70, DeathStalker v2, BlackWidow v3, g502, g512, g203, Finalmouse Ultralight 2.
+                        Uncapped devices have a debounce delay of 10ms or less. To find the debounce delay for your device visit <a href="https://clickspeedtester.com/keyboard-latency-test/">this site</a> and try to get the shortest keypress possible.
                     </p>
                     <p>
-                        Because of the changes to fps in 2.2, physics bypass is ONLY ALLOWED for values under 240. For levels already on the list you may beat them in 2.1 (you can use 59-360fps). Click between frames is allowed as long as you state that you used it since it is counted as its own fps value. This means that you can only beat levels with CBF that were verified with CBF or with levels verified with 240 and over.
+                        Physics bypass can only be used for framerates 240 and under. Levels verified in 2.1 can be beaten in their respective fps (59-360). CBF is its own framerate.
                     </p>
                     <p>
                         Rebinding keys IS allowed as long as you use only 2 or less keys!
