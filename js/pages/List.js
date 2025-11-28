@@ -117,10 +117,10 @@ export default {
                         A maximum of 2 inputs are allowed when spamming.
                     </p>
                     <p>
-                        Hardware is specific to each level, assume that a level is uncapped. 
+                        Hardware is specific to each level. 
                     </p>
                     <p>
-                        You must beat a level on its listed fps unless, though you can verify a level on a harder fps value.
+                        You must beat a level on its listed fps.
                     </p>
                     <p>
                         Uncapped devices have a debounce delay of 10ms or less. To find the debounce delay for your device visit <a style="color: #03bafc" href="https://clickspeedtester.com/keyboard-latency-test/">this site</a> and try to get the shortest keypress possible.
