@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=JAfwYnIds5U",
     "percentToQualify": "100",
     "handcam": 0,
-    "device": "All",
+    "device": "All, devices with a 22.2cps cap or higher",
     "fps": 60,
     "records": [
         {
