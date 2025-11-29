@@ -10,5 +10,10 @@
     "device": "All",
     "fps": "CBF",
     "records": [
+        {
+            "user": "ywuChaos",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
