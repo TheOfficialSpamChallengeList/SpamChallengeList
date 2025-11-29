@@ -10,5 +10,17 @@
     "device": "Uncapped",
     "fps": "CBF",
     "records": [
+        {
+            "user": "LucaGMD",
+            "link": "https://youtube.com/shorts/OkeinnfIL5E?si=DdYSpe6oBYTuu-OM",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "GMDMIRROR",
+            "link": "https://youtube.com/shorts/QY3Bd-NqSMQ?si=zNEifE0Kpr82YCPh",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
