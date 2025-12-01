@@ -9,5 +9,12 @@
     "handcam": 0,
     "device": "Uncapped",
     "fps": "60",
-    "records": []
+    "records": [
+        {
+        "user": "Frozix",
+        "link": "https://youtu.be/NZOWzkNtLOE"
+        "hz": 60,
+        "percent": 100
+        }
+    ]
 }
