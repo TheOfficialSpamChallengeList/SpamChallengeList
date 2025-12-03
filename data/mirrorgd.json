@@ -1,0 +1,20 @@
+{
+    "id": 128092069,
+    "name": "MIRRORGD CHALLENGE",
+    "author": "Liknod",
+    "creators": [],
+    "verifier": "GMDMIRROR",
+    "verification": "https://youtu.be/kYT9Cc_f5B8?si=yfRaEC_4rokB3iEd",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "CBF",
+    "records": [
+      {
+      "user": "ywuChaos",
+      "link": "https://youtu.be/JImGKBxcom4",
+      "hz": "CBF",
+      "percent": 100
+      }
+    ]
+}
