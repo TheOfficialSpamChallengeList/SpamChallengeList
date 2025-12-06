@@ -11,6 +11,12 @@
     "fps": "300",
     "records": [
       {
+      "user": "Sum",
+      "link": "https://www.youtube.com/watch?v=y8JDlLVP4xE",
+      "hz": "300",
+      "percent": 100
+      },
+      {
       "user": "PaperGuy",
       "link": "https://youtu.be/4tB_GheHHeg",
       "hz": "300",
