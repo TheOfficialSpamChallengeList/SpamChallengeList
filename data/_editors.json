@@ -20,9 +20,24 @@
         "link": "https://www.youtube.com/@galbeni7"
     },
         {
-        "role": "helper",
+        "role": "admin",
         "name": "meow24",
         "link": "https://www.youtube.com/@me-di2ol"
+    },
+        {
+        "role": "admin",
+        "name": "Je",
+        "link": "https://www.youtube.com/@jedoesstuff9086"
+    },
+        {
+        "role": "admin",
+        "name": "9tn",
+        "link": "https://www.youtube.com/@9tnGD"
+    },
+            {
+        "role": "helper",
+        "name": "Blighted",
+        "link": "https://www.youtube.com/@Blightedcoconut"
     },
         {
         "role": "helper",
@@ -36,11 +51,6 @@
     },
         {
         "role": "helper",
-        "name": "9tn",
-        "link": "https://www.youtube.com/@9tnGD"
-    },
-        {
-        "role": "helper",
         "name": "Xnor",
         "link": "https://www.youtube.com/@zXnor"
     },
@@ -48,16 +58,6 @@
         "role": "helper",
         "name": "loooookkk",
         "link": "https://www.youtube.com/@loooookkk"
-    },
-        {
-        "role": "helper",
-        "name": "Je",
-        "link": "https://www.youtube.com/@jedoesstuff9086"
-    },
-            {
-        "role": "helper",
-        "name": "Blighted",
-        "link": "https://www.youtube.com/@Blightedcoconut"
     },
     {
         "role": "helper",
