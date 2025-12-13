@@ -1,0 +1,32 @@
+{
+    "id": 127089408,
+    "name": "Wrath of The Machine (RAKE)",
+    "author": "SqueegGD",
+    "creators": [],
+    "verifier": "SqueegGD",
+    "verification": "https://www.youtube.com/watch?v=QgHt50ksyuo",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "Two keys, three fingers, no rapid trigger",
+    "fps": "CBF",
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://medal.tv/games/geometry-dash/clips/lk8fSpSsXswiDi32U?invite=cr-MSxyakosMjIxNzM4MzM0&v=16",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Xed",
+            "link": "https://www.youtube.com/shorts/kpIEchkdpRs",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "AngoPR",
+            "link": "https://youtu.be/RS0FN7K1d2c",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}
