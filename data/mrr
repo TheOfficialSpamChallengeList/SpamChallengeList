@@ -1,0 +1,19 @@
+{
+    "id": 128814989,
+    "name": "MRR spam finale",
+    "author": "zliknod",
+    "creators": [],
+    "verifier": "GMDMIRROR",
+    "verification": "https://youtube.com/watch?v=i1_OgT02NlY",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "CBF",
+    "records": [
+      {
+        "user": "ywuChaos",
+        "hz": "CBF",
+        "percent": 100
+      }
+    ]
+}
