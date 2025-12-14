@@ -3,24 +3,12 @@
     "name": "just no",
     "author": "coolkid363",
     "creators": [],
-    "verifier": "MM9000",
-    "verification": "https://www.youtube.com/watch?v=SgCVBM1gpK4",
+    "verifier": "ywuChaos",
+    "verification": "https://youtu.be/TjYh9vlbrKg",
     "percentToQualify": "100",
     "handcam": 0,
-    "device": "G502/G512",
-    "fps": "240/360",
+    "device": "Uncapped",
+    "fps": "CBF",
     "records": [
-        {
-            "user": "PaperGuy",
-            "link": "https://youtu.be/htpDDigVndg",
-            "hz": "CBF",
-            "percent": 100
-        },
-        {
-        "user": "loooookkk",
-        "link": "https://youtu.be/hBjwZaUVONM?si=gtdRAqJH7NdbTJad&t=1",
-        "hz": "CBF",
-        "percent": 100
-        }
     ]
 }
