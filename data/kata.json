@@ -1,0 +1,20 @@
+{
+    "id": 128131157,
+    "name": "kataTARTARUS Spam",
+    "author": "LucaGMD",
+    "creators": ["ULTRAHAROS", "LucaGMD"],
+    "verifier": "LucaGMD",
+    "verification": "https://youtu.be/A6twdY3qdwo",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "Uncapped",
+    "fps": "CBF",
+    "records": [
+      {
+        "user": "aelzfr",
+        "link": "https://discord.com/channels/1268386437116465205/1268386437875765290/1448453035436015787",
+        "hz": "CBF",
+        "percent": 100
+      }
+    ]
+}
