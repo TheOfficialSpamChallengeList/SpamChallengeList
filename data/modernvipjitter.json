@@ -6,7 +6,7 @@
     "verifier": "REQUIEMHUNGERS",
     "verification": "https://youtube.com/watch?v=goq2_6MCw6A",
     "percentToQualify": "100",
-    "handcam": 0,
+    "handcam": 1,
     "device": "All",
     "fps": "60",
     "records": [
@@ -14,6 +14,11 @@
         "user": "IsntAdam",
         "link": "https://www.youtube.com/watch?v=Wuw1bBgfGBs",
         "hz": "60",
+        "percent": 100
+        },
+        { "user": "LightningGD",
+        "link": "https://youtu.be/d2o2TkO74bw?si=xNUUfJouaih3WSut",
+        "hz": 60,
         "percent": 100
         }
 ]
