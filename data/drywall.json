@@ -6,9 +6,15 @@
     "verifier": "LucaGMD",
     "verification": "https://youtu.be/df3k86gEl1E",
     "percentToQualify": "100",
-    "handcam": 0,
+    "handcam": 1,
     "device": "Uncapped",
     "fps": "CBF",
     "records": [
+        {
+            "user": "GMDMIRROR",
+            "link": "https://youtu.be/pUkh93t5yp0?si=ov6ySEHB849t5xdn",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
