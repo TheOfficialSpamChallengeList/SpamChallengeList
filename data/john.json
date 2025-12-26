@@ -10,5 +10,10 @@
     "device": "All",
     "fps": "CBF",
     "records": [
+        { "user": "GMDMIRROR",
+        "link": "https://youtube.com/shorts/VZWFxUN_rfU?si=tnvtYF6_6jJhE_Cv",
+        "hz": "CBF",
+        "percent": 100
+        }
     ]
 }
