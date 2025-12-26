@@ -10,5 +10,10 @@
     "device": "All",
     "fps": "75",
     "records": [
+        { "user": "tFluffy",
+        "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1449689811127369789",
+        "hz": 75,
+        "percent": 100
+        }
     ]
 }
