@@ -10,5 +10,10 @@
     "device": "Uncapped",
     "fps": "75",
     "records": [
+        { "user": "F1erzza",
+        "link": "https://youtu.be/OqUdQIAtvks",
+        "hz": "75",
+        "percent": 100
+        }
     ]
 }
