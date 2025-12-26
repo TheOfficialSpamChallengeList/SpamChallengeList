@@ -10,5 +10,10 @@
     "device": "Uncapped",
     "fps": "CBF",
     "records": [
+        { "user": "GMDMIRROR",
+        "link": "https://youtu.be/PRX9h0hvR1g",
+        "hz": "CBF",
+        "percent": 100
+        }
     ]
 }
