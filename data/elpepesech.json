@@ -3,34 +3,12 @@
     "name": "El Pepe Sech",
     "author": "RAMIREZGDQUE",
     "creators": [],
-    "verifier": "MM9000",
-    "verification": "https://youtu.be/4o2a7seXKjw",
+    "verifier": "PaperGuy",
+    "verification": "https://youtu.be/AdfGNxEJOlY",
     "percentToQualify": "100",
     "handcam": 0,
-    "device": "G502/G512",
+    "device": "Uncapped",
     "fps": "CBF",
     "records": [
-        {
-            "user": "galbeni7",
-            "hz": "CBF",
-            "percent": 100
-        },
-        {
-            "user": "PaperGuy",
-            "hz": "CBF",
-            "link": "https://www.youtube.com/watch?v=ljuYuVWzkHU",
-            "percent": 100
-        },
-        {
-        "user": "loooookkk",
-        "link": "https://youtu.be/hBjwZaUVONM?si=gtdRAqJH7NdbTJad&t=48",
-        "hz": "CBF",
-        "percent": 100
-        },
-        {
-      "user": "ywuChaos",
-      "hz": "CBF",
-      "percent": 100
-      }
     ]
 }
