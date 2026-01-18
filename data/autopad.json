@@ -1,0 +1,19 @@
+{
+    "id": 129453899,
+    "name": "auto pad",
+    "author": "zVixxqq",
+    "creators": [],
+    "verifier": "connstel",
+    "verification": "https://youtu.be/qyLAxc_dlnw",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "CBF",
+    "records": [
+      {
+        "user": "ywuChaos",
+        "hz": "CBF",
+        "percent": 100
+      }
+    ]
+}
