@@ -10,5 +10,11 @@
     "device": "All",
     "fps": "CBF",
     "records": [
+        {
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/OFiefWwceHA?si=6VQajGrhqHdA5ZJv",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
