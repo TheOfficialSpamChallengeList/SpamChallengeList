@@ -10,5 +10,10 @@
     "device": "Any",
     "fps": "59",
     "records": [
+        {
+        "user": "ywuChaos",
+        "hz": 60,
+        "percent": 100
+        }
     ]
 }
