@@ -19,12 +19,12 @@
         "link": "https://www.youtube.com/watch?v=AqzNlNDhDbk",
         "hz": 60,
         "percent": 100
-        },,
+        },
         { "user": "REQUIEMHUNGERS",
         "link": "https://youtube.com/shorts/-YXGQt-_mHc?si=6luZAt-62L9pNf7Y",
         "hz": 60,
         "percent": 100
-        }
+        },
         { "user": "LightningGD",
         "link": "https://youtu.be/CwV2fJLtLqE",
         "hz": 60,
@@ -33,7 +33,7 @@
         {
             "user": "F1erzza",
             "link": "https://youtu.be/8j4I0dzXoKw",
-            "hz": "CBF",
+            "hz": "60",
             "percent": 100
         }
     ]
