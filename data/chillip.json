@@ -1,0 +1,26 @@
+{
+    "id": 130893210,
+    "name": "chill spam (LIP)",
+    "author": "AngoPR",
+    "creators": [],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/S9TlTYtbhpY",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "device": "All",
+    "fps": "60",
+    "records": [
+      {
+        "user": "IsntAdam",
+        "link": "https://www.youtube.com/watch?v=f_7iAd_bRCE",
+        "hz": 60,
+        "percent": 100
+      },
+      {
+        "user": "Dan",
+        "link": "https://youtu.be/AWKIksavP20",
+        "hz": 60,
+        "percent": 100
+      }
+]
+}
