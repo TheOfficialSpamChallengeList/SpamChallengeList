@@ -10,5 +10,11 @@
     "device": "All",
     "fps": "67",
     "records": [
+        {
+        "user": "AstroGuy",
+        "link": "https://www.youtube.com/watch?v=prRU2GzCuWY",
+        "hz": "67",
+        "percent": 100
+        }
     ]
 }
