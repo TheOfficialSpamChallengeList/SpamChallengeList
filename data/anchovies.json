@@ -10,5 +10,11 @@
     "device": "All",
     "fps": "CBF",
     "records": [
+        {
+            "user": "F1erzza",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1464970914901790834",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
